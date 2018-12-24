@@ -1,0 +1,23 @@
+{
+    "name": "Lighthouse Visualizations",
+    "organization": "Old dog web strategies",
+    "description": "Lighthouse visualization package.",
+    "logoUrl": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiE7smym7ffAhVJIDQIHa5yCSUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.facebook.com%2Folddogwebdesign%2F&psig=AOvVaw2FmZzQjV4u9p5OsCcVnCFt&ust=1545697863368737",
+    "organizationUrl": "http://olddogwebstrategies.com",
+    "supportUrl": "https://url",
+    "privacyPolicyUrl": "https://url",
+    "termsOfServiceUrl": "https://url",
+    "packageUrl": "https://url",
+    "devMode": true,
+    "components": [
+        {
+            "name": "LH-charts",
+            "description": "Lighthouse Community Visualization",
+            "iconUrl": "https://url",
+            "resource": {
+                "js": "gs://seo-charts/LH-charts/LH-charts.js",
+                "config": "gs://seo-charts/LH-charts/LH-charts.json"
+            }
+        }
+    ]
+}
